@@ -1,0 +1,170 @@
+{
+  "name": "SOURODIP KUNDU",
+  "title": "Lead Software Engineer",
+  "summary": "Lead Software Engineer specializing in React.js, TypeScript, and Node.js, focused on building and modernizing enterprise-scale IAM platforms with Micro Frontends and AWS serverless.",
+  "about": "As a Lead Software Engineer, I am driven by the challenge of building and modernizing enterprise-scale Identity and Access Management (IAM) platforms. My expertise spans the full stack, with a strong emphasis on crafting intuitive and highly performant user interfaces using React.js and TypeScript, seamlessly integrated with robust backend services developed in Node.js, GraphQL, and AWS serverless technologies. I am passionate about tackling complex technical debt, implementing scalable Micro Frontend architectures, and optimizing development workflows to deliver modular and maintainable software solutions.\n\nMy professional philosophy centers on continuous innovation and leveraging data-driven insights to enhance system performance and user experience. I advocate for AI-assisted engineering practices to boost productivity and quality, ensuring that every project not only meets but exceeds expectations. I enjoy leading cross-functional teams, fostering collaboration, and transforming intricate business requirements into elegant, high-impact software.",
+  "skills": [
+    "React.js",
+    "TypeScript",
+    "JavaScript (ES6+)",
+    "Redux",
+    "TanStack Query",
+    "TanStack Form",
+    "Webpack Module Federation",
+    "Next.js",
+    "Micro Frontends",
+    "IBM Carbon Design System",
+    "Framer Motion",
+    "HTML5",
+    "CSS3",
+    "Node.js",
+    "Express.js",
+    "Nest.js",
+    "GraphQL",
+    "REST APIs",
+    "AWS Lambda",
+    "AWS API Gateway",
+    "AWS CloudWatch",
+    "Azure",
+    "DynamoDB",
+    "MongoDB",
+    "SQL",
+    "Git",
+    "GitLab",
+    "CI/CD",
+    "Jira",
+    "Postman",
+    "Agile/Scrum",
+    "IBM Bob",
+    "Lighthouse"
+  ],
+  "projects": [
+    {
+      "id": "p1",
+      "title": "Portfolio Website",
+      "description": "Interactive portfolio with dark/light mode, drag-and-drop layout, smooth animations, and an embedded map, fully responsive.",
+      "tech": [
+        "React 18",
+        "TypeScript",
+        "Framer Motion",
+        "Matter.js",
+        "MapLibre GL",
+        "Vite"
+      ],
+      "source": "from_resume",
+      "link": "https://portfoliov1-mu-two.vercel.app/"
+    },
+    {
+      "id": "p2",
+      "title": "Phool4U",
+      "description": "Full-stack flower delivery platform featuring a product catalog, shopping cart, order management, and robust user authentication.",
+      "tech": [
+        "Next.js",
+        "Supabase",
+        "Gemini API",
+        "Framer Motion"
+      ],
+      "source": "from_resume",
+      "link": "https://www.phool4u.in/"
+    },
+    {
+      "id": "p3",
+      "title": "HelloKirana",
+      "description": "End-to-end full-stack e-commerce application designed for local grocery stores, providing comprehensive product management, cart, and order processing functionalities.",
+      "tech": [
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+      ],
+      "source": "from_resume",
+      "link": "https://github.com/mrsourodip/helloKirana"
+    },
+    {
+      "id": "p4",
+      "title": "ECommerce API",
+      "description": "Secure REST API implementing JWT authentication, full CRUD operations for products, order management, and enhanced security via Helmet and rate-limiting.",
+      "tech": [
+        "Node.js",
+        "JWT",
+        "Helmet",
+        "Rate Limiting"
+      ],
+      "source": "from_resume",
+      "link": "https://ecommerce-api-8i9t.onrender.com/"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "c1",
+      "title": "AWS Certified AI Practitioner",
+      "issuer": "AWS",
+      "date": "",
+      "link": ""
+    },
+    {
+      "id": "c2",
+      "title": "Azure Fundamentals (AZ-900)",
+      "issuer": "Microsoft Azure",
+      "date": "",
+      "link": ""
+    },
+    {
+      "id": "c3",
+      "title": "Generative AI Leader",
+      "issuer": "Various",
+      "date": "",
+      "link": ""
+    },
+    {
+      "id": "c4",
+      "title": "React & Problem Solving",
+      "issuer": "HackerRank",
+      "date": "",
+      "link": ""
+    }
+  ],
+  "experience": [
+    {
+      "id": "e1",
+      "company": "Persistent Systems",
+      "role": "Lead Software Engineer",
+      "date": "Dec 2025 — Present",
+      "description": [
+        "Owned UI modernization strategy for IBM ISC and ISIM, migrating from Dojo to React.js/TypeScript with Carbon Design System, reducing front-end technical debt by 40%+.",
+        "Drove enterprise-wide Microfrontend architecture adoption across key modules, improving release cycles by ~30% and establishing reusable UI standards.",
+        "Standardized front-end engineering practices across teams, enhancing maintainability, reducing duplication, and boosting developer productivity.",
+        "Led AI-assisted engineering transformation, integrating tools like IBM Bob to automate test generation and improve test coverage by 30-40%."
+      ]
+    },
+    {
+      "id": "e2",
+      "company": "Persistent Systems",
+      "role": "Senior Software Engineer",
+      "date": "Jul 2024 — Dec 2025",
+      "description": [
+        "Delivered critical features for IBM Security Verify Governance (ISVG), improving IAM workflow efficiency and access governance operations.",
+        "Built and enhanced the ARC module for real-time detection of Segregation of Duties (SoD) violations, strengthening compliance and reducing security risk.",
+        "Modernized legacy Dojo.js access workflows with time-bound controls and native file upload, significantly improving user experience.",
+        "Designed and implemented a dynamic Custom Roles framework using TanStack Form with i18n/RTL support, reducing configuration effort by ~35%."
+      ]
+    },
+    {
+      "id": "e3",
+      "company": "Persistent Systems",
+      "role": "Software Engineer",
+      "date": "Jun 2022 — Jul 2024",
+      "description": [
+        "Developed and integrated REST APIs using TypeScript in Node.js, ensuring seamless front-end integration and improving service scalability.",
+        "Led migration of legacy Java APIs to TypeScript, re-engineering business logic for optimized performance and reduced technical debt.",
+        "Designed and implemented new backend capabilities, including AWS DynamoDB audit logging and event tracking via AWS Lambda, enhancing observability.",
+        "Enhanced critical features like Rehire scenarios and GPN collision handling, performing RCA with AWS CloudWatch to resolve QA/production incidents."
+      ]
+    }
+  ],
+  "contact": {
+    "email": "sourodip.works@gmail.com",
+    "linkedin": "https://in.linkedin.com/in/sourodip-k",
+    "github": "https://github.com/mrsourodip"
+  }
+}
